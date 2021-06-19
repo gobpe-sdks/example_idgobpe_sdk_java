@@ -98,7 +98,7 @@
         <dependency>
             <groupId>io.github.gobpe-sdks</groupId>
             <artifactId>idgobpe_sdk_java</artifactId>
-            <version>1.0.2</version>
+            <version>1.0.4</version>
         </dependency>
     </dependencies>
 
